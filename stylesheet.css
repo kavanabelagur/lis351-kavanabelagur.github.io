@@ -1,0 +1,60 @@
+/* You should edit the content below to fit your website */
+
+header {
+	color: #0B3142;
+}
+header h1{
+	margin: 0;
+	padding-top: 60px;
+	font-size: 100px;
+	font-family: garamond, serif;
+}
+body {
+	width: 1000px;
+	margin: 0 auto;
+	border: double;
+	background-color: #D6D3F0;
+	text-align: center;
+
+}
+
+
+nav{
+	background-color: #C6B9CD;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+
+}
+li{
+	display: inline;
+	padding: 5px;
+	text-align: center;
+}
+section {
+	overflow: auto;
+	height: 100%;
+}
+main {
+	background-color: #C6B9CD;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+
+}
+article{
+	padding: 10px;
+	margin: 10px;
+	background-color: #EEE5E9;
+	float: left;
+	font-size: 20px;
+
+}
+article img{
+	float: inherit;
+
+}
+dt, dd {
+	text-align: left;
+	font-size: 30px;
+}
